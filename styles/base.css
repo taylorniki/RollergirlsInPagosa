@@ -22,3 +22,14 @@ nav{
 nav > ul > li:hover > a {
 	background-color: #E72A74;
 }
+#slideshow{
+	float: right;
+	width: 42%;
+}
+#facebook{
+	float: left;
+	width: 70%;
+}
+#bottom{
+	clear: both;
+}
