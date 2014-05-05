@@ -1,6 +1,8 @@
 nav{
-	width: 98%;
+	width: 95%;
 	position:absolute; top: 1px; left: 1px; z-index: 1;
+	margin-left:2em;
+	
 }
 #nav_bar ul{
 	list-style: none;
@@ -8,7 +10,9 @@ nav{
 	background-color: #ED74A9;
 	text-align: center;
 	border-bottom: 8px solid #E72A74;
+	border-radius: 2px 2px 2px 2px;
 }
+
 #nav_bar li{
 	display: inline;
 }
@@ -21,6 +25,7 @@ nav{
 }
 nav > ul > li:hover > a {
 	background-color: #E72A74;
+	border-radius: 2px 2px 2px 2px;
 }
 #slideshow{
 	float: right;
@@ -30,4 +35,8 @@ nav > ul > li:hover > a {
 }
 #bottom{
 	clear: both;
+}
+#banner{
+	margin-top: 53px;
+	background-color: solid white;
 }
