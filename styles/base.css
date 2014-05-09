@@ -2,6 +2,14 @@ nav{
 	width: 98.75%;
 	position:absolute; top: 1px; left: 5px; right: 5px;
 	margin-left:.2em;
+<<<<<<< HEAD
+=======
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+
+>>>>>>> c6c53f9c2098c623d0b4113659b1887669929462
 }
 #nav_bar ul{
 	list-style: none;
@@ -38,11 +46,16 @@ nav > ul > li:hover > a {
 #banner{
 	margin-top: 53px;
 	background-color: solid white;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
 }
 #color-tab{
 	background-color:#E72A74;
 	border-radius: 2px 2px 2px 2px;
 }
+<<<<<<< HEAD
 
 #logo{
 	position:absolute; 
@@ -87,4 +100,9 @@ div.desc
   width:120px;
   margin:5px;
   }
+=======
+.margin{
+	margin-left: px;
+}
+>>>>>>> c6c53f9c2098c623d0b4113659b1887669929462
 
