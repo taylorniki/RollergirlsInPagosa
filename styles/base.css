@@ -1,23 +1,15 @@
 nav{
 	width: 98.75%;
 	position:absolute; top: 1px; left: 5px; right: 5px;
-<<<<<<< HEAD
 	margin-left:.2em;
-
 	position: absolute;
 	left: 0px;
-=======
 	margin-left:.2em
 	position: absolute
->>>>>>> dc3906eb4e74f90d8544293b9878397910ced579
 	top: 0px;
 	left: 0px;
 	z-index: -1;
-<<<<<<< HEAD
-
-=======
 }
->>>>>>> dc3906eb4e74f90d8544293b9878397910ced579
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
