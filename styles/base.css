@@ -30,6 +30,9 @@ nav > ul > li:hover > a {
 	background-color: #E72A74;
 	border-radius: 2px 2px 2px 2px;
 }
+body{
+	color: #686B72;
+}
 #slideshow{
 	float: right;
 }
@@ -95,7 +98,19 @@ div.desc
   width:120px;
   margin:5px;
   }
-=======
 .margin{
 	margin-left: px;
+}
+#contact{
+	text-align: center;
+}
+#face{
+	alignment-adjust: center;
+}
+footer{
+	border: 1px;
+	background-color: #ED74A9;
+	color: black;
+	border-radius: 10px 10px 10px 10px;
+	clear: left;
 }
