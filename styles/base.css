@@ -71,25 +71,30 @@ body{
   width:auto;
   float:left;
   text-align:center;
+  margin-left:5%;
 }
 div.img {
   margin:5px;
   padding: 5px;
-  border:1px solid #0000ff;
+  border:1px solid #686B72;
   height:auto;
   width:auto;
   float:left;
   text-align:center;
+  box-shadow:2px 2px 2px 2px #686B72;
+  border-radius:5px 5px 5px 5px;
   }
 div.img img
   {
   display:inline;
   margin:5px;
   border:1px solid #ffffff;
+  border-radius:4px 4px 4px 4px;
+  margin-left:10px;
   }
 div.img a:hover img
   {
-  border:1px solid #0000ff;
+  border:1px solid #686B72;
   }
 div.desc
   {
@@ -98,6 +103,21 @@ div.desc
   width:120px;
   margin:5px;
   }
+
+#contact{
+	text-align:center;
+}
+#face{
+	Position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top:-160px;
+	margin-left:-151px;
+}
+#bottom{
+	float:bottom;
+}
+
 .margin{
 	margin-left: px;
 }
@@ -111,3 +131,4 @@ footer{
 	border-radius: 10px 10px 10px 10px;
 	clear: left;
 }
+
