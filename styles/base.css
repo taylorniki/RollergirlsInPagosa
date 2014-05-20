@@ -129,6 +129,7 @@ footer{
 	margin-top: 70px;
 	text-align: center;
 }
+<<<<<<< HEAD
 #faqinfo
 {
 -webkit-column-count:2; /* Chrome, Safari, Opera */
@@ -142,4 +143,9 @@ column-gap:40px;
 #faqtext
 {
 	float:left;
+=======
+.faq_pic{
+	width: 220px;
+	height: 170px;
+>>>>>>> 1e4d45460c5ffc04a02d2e76b8d51b6a29d3d38f
 }
