@@ -1,11 +1,7 @@
 nav{
 	width: 98.75%;
-	position:absolute; top: 1px; left: 5px; right: 5px;
+	position:absolute; top: 1px; left: 10em; right: 5px;
 	margin-left:.2em;
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	z-index: -1;
 }
 #nav_bar ul{
 	list-style: none;
@@ -45,10 +41,7 @@ body{
 #banner{
 	margin-top: 53px;
 	background-color: solid white;
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	z-index: -1;
+	margin-left:154px;
 }
 #color-tab{
 	background-color:#E72A74;
@@ -132,7 +125,11 @@ footer{
 #centertx{
 	text-align: center;
 }
+<<<<<<< HEAD
+
+=======
 #faq{
 	margin-top: 70px;
 	text-align: center;
 }
+>>>>>>> 868ccd5707496f8ba6b28f7f4167f44e30a4d0c0
