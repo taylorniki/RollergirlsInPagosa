@@ -125,11 +125,18 @@ footer{
 #centertx{
 	text-align: center;
 }
-<<<<<<< HEAD
-
-=======
 #faq{
 	margin-top: 70px;
 	text-align: center;
 }
->>>>>>> 868ccd5707496f8ba6b28f7f4167f44e30a4d0c0
+#faqinfo
+{
+-webkit-column-count:2; /* Chrome, Safari, Opera */
+-moz-column-count:2; /* Firefox */
+column-count:2;
+-webkit-column-gap:40px; /* Chrome, Safari, Opera */
+-moz-column-gap:40px; /* Firefox */
+column-gap:40px;
+
+} 
+
