@@ -119,20 +119,37 @@ footer{
 	clear: left;
 }
 .photowh{
-	width: 186px;
-	height: 160px;
+	width: 177px;
+	height: 130px;
 }
 #centertx{
 	text-align: center;
 }
-<<<<<<< HEAD
-
-=======
 #faq{
 	margin-top: 70px;
 	text-align: center;
 }
-.faq_pic{
-	width: 220px;
-	height: 170px;
+ 
+.faqtext
+{
+	float:left;
+	margin-right:225px;
+	width:80%;
+	margin-left:
+	
+}
+
+.faq_pic
+{
+	width: 258px;
+	height: 200px;
+	float:right;
+}
+#faqinfo
+{
+	width:100%
+}
+.right_tble
+{
+	width:200px;
 }
