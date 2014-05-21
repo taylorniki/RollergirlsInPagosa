@@ -119,8 +119,8 @@ footer{
 	clear: left;
 }
 .photowh{
-	width: 186px;
-	height: 160px;
+	width: 177px;
+	height: 130px;
 }
 #centertx{
 	text-align: center;
@@ -129,23 +129,27 @@ footer{
 	margin-top: 70px;
 	text-align: center;
 }
-<<<<<<< HEAD
-#faqinfo
-{
--webkit-column-count:2; /* Chrome, Safari, Opera */
--moz-column-count:2; /* Firefox */
-column-count:2;
--webkit-column-gap:40px; /* Chrome, Safari, Opera */
--moz-column-gap:40px; /* Firefox */
-column-gap:40px;
-
-} 
-#faqtext
+ 
+.faqtext
 {
 	float:left;
-=======
-.faq_pic{
-	width: 220px;
-	height: 170px;
->>>>>>> 1e4d45460c5ffc04a02d2e76b8d51b6a29d3d38f
+	margin-right:225px;
+	width:80%;
+	margin-left:
+	
+}
+
+.faq_pic
+{
+	width: 258px;
+	height: 200px;
+	float:right;
+}
+#faqinfo
+{
+	width:100%
+}
+.right_tble
+{
+	width:200px;
 }
