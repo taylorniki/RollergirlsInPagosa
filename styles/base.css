@@ -42,6 +42,7 @@ body{
 	margin-top: 53px;
 	background-color: solid white;
 	margin-left:154px;
+	position: absolute;
 }
 #color-tab{
 	background-color:#E72A74;
@@ -49,8 +50,7 @@ body{
 }
 
 #logo{
-	position:absolute;
-	float:left
+	float: left;
 }
 #teamphoto{
 	display:block;
