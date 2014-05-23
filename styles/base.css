@@ -120,12 +120,13 @@ footer{
 	color: black;
 	border-radius: 10px 10px 10px 10px;
 	clear: left;
+	margin-top: 20em;
 }
 .photowh{
 	width: 177px;
 	height: 130px;
 }
-#centertx{
+#centertx1{
 	text-align: center;
 }
 #faq{
