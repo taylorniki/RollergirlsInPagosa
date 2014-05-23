@@ -54,6 +54,9 @@ body{
 
 #logo{
 	float: left;
+	position: relative;
+	left: -5px;
+	top: -1px;
 }
 #teamphoto{
 	display:block;
@@ -132,14 +135,14 @@ footer{
 	margin-top: 70px;
 	text-align: center;
 }
- 
+
 .faqtext
 {
 	float:left;
 	margin-right:225px;
 	width:80%;
 	margin-left:
-	
+
 }
 
 .faq_pic
