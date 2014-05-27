@@ -28,7 +28,7 @@ nav > ul > li:hover > a {
 }
 body{
 	color: #686B72;
-}
+	font-family: Arial, Helvetica, sans-serif;
 #slideshow{
 	float: right;
 }
