@@ -29,6 +29,7 @@ nav > ul > li:hover > a {
 body{
 	color: #686B72;
 	font-family: Arial, Helvetica, sans-serif;
+}
 #slideshow{
 	float: right;
 }
@@ -56,7 +57,7 @@ body{
 #logo{
 	float: left;
 	position: absolute; top: 7.1px; left: 0px; right: 20px;
-	
+
 }
 #teamphoto{
 	display:block;
