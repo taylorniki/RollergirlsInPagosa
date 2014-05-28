@@ -152,10 +152,10 @@ footer {
 .right_tble {
 	width:200px;
 }
-table.spon {
+.spon {
 	border-collapse: collapse;
 }
-.spon table, td {
+.sponstd {
 	border: 4px solid #ED74A9;
 }
 
