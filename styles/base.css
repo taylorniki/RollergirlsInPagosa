@@ -159,6 +159,10 @@ footer {
 	border: 4px solid #ED74A9;
 }
 
-#toptop {
+.toptop {
 	margin-top:300px;
+}
+#gmail{
+	margin-left: auto;
+	margin-right:auto;
 }
