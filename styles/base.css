@@ -162,7 +162,15 @@ footer{
 {
 	width:200px;
 }
+<<<<<<< HEAD
+table{
+	border-collapse: collapse;
+}
+table, td{
+	border: 4px solid black;
+=======
 #toptop
 {
 	margin-top:300px;
+>>>>>>> 39588c55ee05dfe2fa5c4702649c705e7c929457
 }
