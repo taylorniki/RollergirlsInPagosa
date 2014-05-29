@@ -106,12 +106,13 @@ div.desc {
 }
 
 #contact {
-	text-align:center;
+	margin-left:41.5%;
 }
-#face {
 
-	width:5
-	
+#face {
+	width:30%;
+	margin-right:35%;
+	margin-left:35%;
 }
 footer {
 	border: 1px;
