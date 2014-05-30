@@ -33,6 +33,8 @@ body {
 #slideshow {
 	float: right;
 	margin-right:1.25%;
+	margin-top:300px;
+
 }
 #facebook {
 	float: left;
@@ -177,3 +179,4 @@ footer {
 	position:absolute;  top:480px; left:675px;
 	width:30%;
 }
+
