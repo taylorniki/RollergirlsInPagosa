@@ -82,7 +82,7 @@ div.img {
   padding: 5px;
   border:1px solid #686B72;
   height:auto;
-  width:auto;
+  width:250px;
   float:left;
   text-align:center;
   box-shadow:2px 2px 2px 2px #686B72;
@@ -170,4 +170,10 @@ footer {
 }
 #calender{
 	border: 4px solid black;
+	float:left;
+}
+.eventxt{
+	float: right;
+	position:absolute;  top:480px; left:675px;
+	width:30%;
 }
