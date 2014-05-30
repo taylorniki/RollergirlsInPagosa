@@ -120,8 +120,8 @@ footer {
 	background-color: #ED74A9;
 	color: black;
 	border-radius: 10px 10px 10px 10px;
-	clear: left;
-	margin-top: 20em;
+	clear: both;
+
 }
 .photowh {
 	width: 177px;
@@ -174,6 +174,7 @@ footer {
 }
 .eventxt{
 	float: right;
-	position:absolute;  top:480px; left:675px;
+	position:absolute;  top:450px; left:675px;
 	width:30%;
+	font-size: 18px;
 }
